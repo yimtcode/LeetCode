@@ -4,3 +4,7 @@
 
 # golang
 vendor
+
+# java
+out
+java.iml
