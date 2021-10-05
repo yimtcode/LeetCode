@@ -1,7 +1,14 @@
-package LongestSubstringWithoutRepeatingCharacters;
-
 import java.util.HashMap;
 import java.util.Map;
+
+class Main {
+    public static void main(String[] args) {
+        // write your code here
+        Solution s = new Solution();
+        int max = s.lengthOfLongestSubstring("abcabcbb");
+        System.out.println(max);
+    }
+}
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
@@ -24,14 +31,5 @@ class Solution {
             m.put(b, i);
         }
         return max;
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        // write your code here
-        Solution s = new Solution();
-        int max = s.lengthOfLongestSubstring("abcabcbb");
-        System.out.println(max);
     }
 }
