@@ -1,16 +1,14 @@
-package add_two_numbers
+package main
+
+import "fmt"
 
 type ListNode struct {
 	Val  int
 	Next *ListNode
 }
 
-/*
-1.通过for循环实现
-执行用时：12 ms, 在所有 Go 提交中击败了59.95%的用户
-内存消耗：4.6 MB, 在所有 Go 提交中击败了63.41%的用户
-*/
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+// 1.通过for循环实现
+func addTwoNumbers1(l1 *ListNode, l2 *ListNode) *ListNode {
 	var (
 		root    *ListNode
 		current *ListNode
@@ -43,12 +41,7 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return root
 }
 
-/*
-2.使用递归实现
-执行用时: 12 ms
-内存消耗: 4.8 MB
-提交时间：3 分钟前
-*/
+// 2.使用递归实现
 func addTwoNumbers2(l1 *ListNode, l2 *ListNode) *ListNode {
 	return addTwoNumbersInternal(l1, l2, nil, nil, 0)
 }
@@ -82,4 +75,35 @@ func addTwoNumbersInternal(n1, n2, l3, current *ListNode, num int) *ListNode {
 		current = node
 	}
 	return addTwoNumbersInternal(n1, n2, l3, current, num)
+}
+
+func main() {
+	// l1
+	l1Node6 := &ListNode{9, nil}
+	l1Node5 := &ListNode{9, l1Node6}
+	l1Node4 := &ListNode{9, l1Node5}
+	l1Node3 := &ListNode{9, l1Node4}
+	l1Node2 := &ListNode{9, l1Node3}
+	l1Node1 := &ListNode{9, l1Node2}
+	l1 := &ListNode{9, l1Node1}
+	// l2
+	l2Node3 := &ListNode{9, nil}
+	l2Node2 := &ListNode{9, l2Node3}
+	l2Node1 := &ListNode{9, l2Node2}
+	l2 := &ListNode{9, l2Node1}
+
+	// 1
+	l3_1 := addTwoNumbers1(l1, l2)
+	// 打印
+	for node := l3_1; node != nil; node = node.Next {
+		fmt.Print(node.Val, " ")
+	}
+	fmt.Println()
+
+	// 2
+	l3_2 := addTwoNumbers2(l1, l2)
+	// 打印
+	for node := l3_2; node != nil; node = node.Next {
+		fmt.Print(node.Val, " ")
+	}
 }

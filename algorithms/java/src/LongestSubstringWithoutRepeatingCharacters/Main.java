@@ -1,3 +1,5 @@
+package LongestSubstringWithoutRepeatingCharacters;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -26,7 +28,6 @@ class Solution {
 }
 
 public class Main {
-
     public static void main(String[] args) {
         // write your code here
         Solution s = new Solution();

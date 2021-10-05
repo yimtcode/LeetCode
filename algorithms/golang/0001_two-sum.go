@@ -1,4 +1,6 @@
-package two_sum
+package main
+
+import "fmt"
 
 func twoSum(nums []int, target int) []int {
 	for i := 0; i < len(nums); i++ {
@@ -10,4 +12,11 @@ func twoSum(nums []int, target int) []int {
 		}
 	}
 	return nil
+}
+
+func main() {
+	nums := []int{2, 7, 11, 156}
+	target := 9
+	indexes := twoSum(nums, target)
+	fmt.Println(indexes)
 }

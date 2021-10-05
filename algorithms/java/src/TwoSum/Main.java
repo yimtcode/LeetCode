@@ -1,3 +1,5 @@
+package TwoSum;
+
 import java.util.Arrays;
 
 class Solution {
@@ -11,14 +13,15 @@ class Solution {
         }
         return null;
     }
+
+
 }
 
 public class Main {
-
     public static void main(String[] args) {
         // write your code here
         Solution s = new Solution();
-        int[] result = s.twoSum(new int[]{2,7,11,15}, 9);
+        int[] result = s.twoSum(new int[]{2, 7, 11, 15}, 9);
         System.out.println(Arrays.toString(result));
     }
 }

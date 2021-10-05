@@ -5,6 +5,7 @@ import (
 	"math"
 )
 
+// 1.识别数据范围
 func reverse1(x int) int {
 	result := 0
 	for x != 0 {
@@ -21,6 +22,7 @@ func reverse1(x int) int {
 	return result
 }
 
+// 2.利用类型强转，判断是否在指定范围
 func reverse2(x int) int {
 	var result int64
 	for x != 0 {
