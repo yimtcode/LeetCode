@@ -1,8 +1,10 @@
 # LeetCode
 
+> 力扣解题，主要使用Go去实现
+
 ## 算法
 
-|  ID  |                             标题                             | 难度 | 解题                                                         | 备注     |
+|  ID  |                             标题                             | 难度 | 实现                                                         | 备注     |
 | :--: | :----------------------------------------------------------: | ---- | ------------------------------------------------------------ | -------- |
 |  1   |    [两数之和](https://leetcode-cn.com/problems/two-sum/)     | 简单 | [Go](algorithms/golang/0001_two-sum.go) [Java](algorithms/java/0001_two_sum.java) |          |
 |  2   | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | 中等 | [Go](algorithms/golang/0002_add-two-numbers.go) [Java](algorithms/java/0003_longest-substring-without-repeating-characters.java) |          |
@@ -13,4 +15,5 @@
 |  13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Go](algorithms/golang/0013_roman-to-integer.go)             |          |
 |  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [Go](algorithms/golang/0014_longest-common-prefix.go)        |          |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |          |
+|  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |          |
 
