@@ -17,6 +17,6 @@
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |          |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |          |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |          |
-
+|  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Go](algorithms/golang/0027_remove-element.go)               |          |
 
 
