@@ -20,4 +20,5 @@
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Go](algorithms/golang/0027_remove-element.go)               |          |
 |  28  | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Go](algorithms/golang/0028_implement-strstr.go)             |          |
 |  35  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Go](algorithms/golang/0035_search-insert-position.go)       |          |
+|  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [Go](algorithms/golang/0053_maximum-subarray.go)             |          |
 
