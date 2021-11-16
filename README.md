@@ -22,5 +22,6 @@
 |  35  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Go](algorithms/golang/0035_search-insert-position.go)       |          |
 |  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [Go](algorithms/golang/0053_maximum-subarray.go)             |          |
 |  58  | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [Python](algorithms/python/0058_length-of-last-word.py)      |          |
-|  66  |    [66. 加一](https://leetcode-cn.com/problems/plus-one/)    | 简单 | [Python](algorithms/python/0066_plus-one.py)                 | 注意进位 |
+|  66  |      [加一](https://leetcode-cn.com/problems/plus-one/)      | 简单 | [Python](algorithms/python/0066_plus-one.py)                 | 注意进位 |
+|  67  |  [二进制求和](https://leetcode-cn.com/problems/add-binary/)  | 简单 | [Go](algorithms/golang/0067_add-binary.go)                   | 注意进位 |
 
