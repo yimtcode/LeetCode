@@ -25,4 +25,5 @@
 |  66  |      [加一](https://leetcode-cn.com/problems/plus-one/)      | 简单 | [Python](algorithms/python/0066_plus-one.py)                 | 注意进位 |
 |  67  |  [二进制求和](https://leetcode-cn.com/problems/add-binary/)  | 简单 | [Go](algorithms/golang/0067_add-binary.go)                   | 注意进位 |
 |  69  |      [Sqrt(x)](https://leetcode-cn.com/problems/sqrtx/)      | 简单 | [Python](algorithms/python/0069_sqrt.py)                     |          |
+|  83  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](algorithms/python/0083_remove-duplicates-from-sorted-list.py) |          |
 
