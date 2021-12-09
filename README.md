@@ -29,4 +29,5 @@
 |  83  | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 简单 | [Python](algorithms/python/0083_remove-duplicates-from-sorted-list.py) |          |
 |  88  | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | 简单 | [Python](algorithms/python/0088_merge-sorted-array.py)       |          |
 |  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 简单 | [Python](algorithms/python/0094_binary-tree-inorder-traversal.py) |          |
+| 100  |   [相同的树](https://leetcode-cn.com/problems/same-tree/)    | 简单 | [Python](algorithms/python/0100_same-tree.py)                |          |
 
