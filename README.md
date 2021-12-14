@@ -31,4 +31,5 @@
 |  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | 简单 | [Python](algorithms/python/0094_binary-tree-inorder-traversal.py) |          |
 | 100  |   [相同的树](https://leetcode-cn.com/problems/same-tree/)    | 简单 | [Python](algorithms/python/0100_same-tree.py)                |          |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | 简单 | [Python](algorithms/python/0101_symmetric-tree.py)           |          |
+| 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | 简单 | [Python](algorithms/python/0104_maximum-depth-of-binary-tree.py) |          |
 
