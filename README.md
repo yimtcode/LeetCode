@@ -11,6 +11,7 @@
 |  3   | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | 中等 | [Go](algorithms/golang/0003_longest-substring-without-repeating-characters.go) |          |
 |  4   | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) | 困难 | [Go](algorithms/golang/0004_median-of-two-sorted-arrays.go)  | 暴力解题 |
 |  5   | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | 中等 | [Python](algorithms/python/0005_longest-palindromic-substring.py) |          |
+|  6   | [Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | 中等 | [Python](algorithms/python/0006_zigzag-conversion.py)        |          |
 |  7   | [整数反转](https://leetcode-cn.com/problems/reverse-integer/) | 简单 | [Go](algorithms/golang/0007_reverse-integer.go)              |          |
 |  9   | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | 简单 | [Go](algorithms/golang/0009_palindrome-number.go)            |          |
 |  13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Go](algorithms/golang/0013_roman-to-integer.go)             |          |
