@@ -16,6 +16,7 @@
 |  8   | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | 中等 | [Python](algorithms/python/0008_string-to-integer-atoi.py)   |          |
 |  9   | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | 简单 | [Go](algorithms/golang/0009_palindrome-number.go)            |          |
 |  10  | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | 困难 | [Python](algorithms/python/0010_regular-expression-matching.py) |          |
+|  11  | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | 中等 | [Python](algorithms/python/0011_container-with-most-water.py) | 双指针   |
 |  13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Go](algorithms/golang/0013_roman-to-integer.go)             |          |
 |  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [Go](algorithms/golang/0014_longest-common-prefix.go)        |          |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |          |
