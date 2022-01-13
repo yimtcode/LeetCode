@@ -42,4 +42,5 @@
 | 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 简单 | [Python](algorithms/python/0110_balanced-binary-tree.py)     |                        |
 | 111  | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | [Python](algorithms/python/0111_minimum-depth-of-binary-tree.py) | 递归                   |
 | 112  |    [路径总和](https://leetcode-cn.com/problems/path-sum/)    | 简单 | [Python](algorithms/python/0112_path-sum.py)                 | 递归                   |
+| 125  | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [Swift](algorithms/swift/0125_valid-palindrome.swift)                                   |                        |
 
