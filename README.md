@@ -20,6 +20,7 @@
 |  12  | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | 中等 | [Python](algorithms/python/0012_integer-to-roman.py)         | 算法难写，就去修改数据 |
 |  13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Go](algorithms/golang/0013_roman-to-integer.go)             |                        |
 |  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [Go](algorithms/golang/0014_longest-common-prefix.go)        |                        |
+|  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | 中等 | [Swift](algorithms/swift/0015_3sum.swift)                    |                        |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |                        |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |                        |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |                        |
@@ -42,5 +43,5 @@
 | 110  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) | 简单 | [Python](algorithms/python/0110_balanced-binary-tree.py)     |                        |
 | 111  | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | 简单 | [Python](algorithms/python/0111_minimum-depth-of-binary-tree.py) | 递归                   |
 | 112  |    [路径总和](https://leetcode-cn.com/problems/path-sum/)    | 简单 | [Python](algorithms/python/0112_path-sum.py)                 | 递归                   |
-| 125  | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [Swift](algorithms/swift/0125_valid-palindrome.swift)                                   |                        |
+| 125  | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | 简单 | [Swift](algorithms/swift/0125_valid-palindrome.swift)        |                        |
 
