@@ -21,6 +21,7 @@
 |  13  | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | 简单 | [Go](algorithms/golang/0013_roman-to-integer.go)             |                        |
 |  14  | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | 简单 | [Go](algorithms/golang/0014_longest-common-prefix.go)        |                        |
 |  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | 中等 | [Swift](algorithms/swift/0015_3sum.swift)                    |                        |
+|  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 中等 | [Swfit](algorithms/swift/0016_3sum-closest.swift)            | 双指针                 |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |                        |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |                        |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |                        |
