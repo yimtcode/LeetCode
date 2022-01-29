@@ -23,6 +23,7 @@
 |  15  |      [三数之和](https://leetcode-cn.com/problems/3sum/)      | 中等 | [Swift](algorithms/swift/0015_3sum.swift)                    |                        |
 |  16  | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | 中等 | [Swfit](algorithms/swift/0016_3sum-closest.swift)            | 双指针                 |
 |  17  | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | 中等 | [Swfit](algorithms/swift/0017_letter-combinations-of-a-phone-number.swift) |                        |
+|  18  |      [四数之和](https://leetcode-cn.com/problems/4sum/)      | 中等 | [Swfit](algorithms/swift/0018_ 4sum.swift)                   | 双指针                 |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |                        |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |                        |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |                        |
