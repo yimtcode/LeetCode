@@ -27,6 +27,7 @@
 |  19  | [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | 中等 | [Swfit](algorithms/swift/0019_remove-nth-node-from-end-of-list.swift) |                        |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |                        |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |                        |
+|  22  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | [Swfit](algorithms/swift/0022_generate-parentheses.swift)    |                        |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |                        |
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Go](algorithms/golang/0027_remove-element.go)               |                        |
 |  28  | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Go](algorithms/golang/0028_implement-strstr.go)             |                        |
