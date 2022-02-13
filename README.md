@@ -28,6 +28,7 @@
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | 简单 | [Go](algorithms/golang/0020_valid-parentheses.go)            |                        |
 |  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | 简单 | [Java](algorithms/java/0021_merge-two-sorted-lists.java)     |                        |
 |  22  | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | 中等 | [Swfit](algorithms/swift/0022_generate-parentheses.swift)    |                        |
+|  23  | [合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | 困难 | [Python](algorithms/python/0023_merge-k-sorted-lists.py)     |                        |
 |  26  | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | 简单 | [Go](algorithms/golang/0026_remove-duplicates-from-sorted-array.go) |                        |
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element/) | 简单 | [Go](algorithms/golang/0027_remove-element.go)               |                        |
 |  28  | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | 简单 | [Go](algorithms/golang/0028_implement-strstr.go)             |                        |
