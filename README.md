@@ -38,6 +38,7 @@
 |  32  | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/) | 困难 | [Go](algorithms/golang/0032_longest-valid-parentheses.go)    | 遍历所有可能，比较耗CPU |
 |  34  | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 中等 | [Go](algorithms/golang/0034_find-first-and-last-position-of-element-in-sorted-array.go) | 二分查找                |
 |  35  | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | 简单 | [Go](algorithms/golang/0035_search-insert-position.go)       |                         |
+|  36  | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | 中等 | [Go](algorithms/golang/0036_valid-sudoku.go)                 |                         |
 |  53  | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | 简单 | [Go](algorithms/golang/0053_maximum-subarray.go)             |                         |
 |  58  | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | 简单 | [Python](algorithms/python/0058_length-of-last-word.py)      |                         |
 |  66  |      [加一](https://leetcode-cn.com/problems/plus-one/)      | 简单 | [Python](algorithms/python/0066_plus-one.py)                 | 注意进位                |
